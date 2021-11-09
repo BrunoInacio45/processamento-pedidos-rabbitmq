@@ -1,0 +1,11 @@
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\bin\Debug\net5.0\PublisherPedidos.deps.json
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\bin\Debug\net5.0\PublisherPedidos.dll
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\bin\Debug\net5.0\ref\PublisherPedidos.dll
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\bin\Debug\net5.0\PublisherPedidos.pdb
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\obj\Debug\net5.0\PublisherPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\obj\Debug\net5.0\PublisherPedidos.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\obj\Debug\net5.0\PublisherPedidos.AssemblyInfo.cs
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\obj\Debug\net5.0\PublisherPedidos.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\obj\Debug\net5.0\PublisherPedidos.dll
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\obj\Debug\net5.0\ref\PublisherPedidos.dll
+C:\Users\bruno\Documents\Projetos\processamento-pedidos\PublisherPedidos\obj\Debug\net5.0\PublisherPedidos.pdb
