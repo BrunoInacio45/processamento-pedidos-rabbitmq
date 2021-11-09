@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PublisherPedidos\RabbitLib.csproj" />
+    <ProjectReference Include="..\RabbitLib\RabbitLib.csproj" />
   </ItemGroup>
 
 </Project>

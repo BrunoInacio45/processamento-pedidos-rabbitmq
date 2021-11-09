@@ -298,8 +298,8 @@
     },
     "RabbitLib/1.0.0": {
       "type": "project",
-      "path": "../PublisherPedidos/RabbitLib.csproj",
-      "msbuildProject": "../PublisherPedidos/RabbitLib.csproj"
+      "path": "../RabbitLib/RabbitLib.csproj",
+      "msbuildProject": "../RabbitLib/RabbitLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -335,8 +335,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\bruno\\Documents\\Projetos\\processamento-pedidos\\PublisherPedidos\\RabbitLib.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Documents\\Projetos\\processamento-pedidos\\PublisherPedidos\\RabbitLib.csproj"
+            "C:\\Users\\bruno\\Documents\\Projetos\\processamento-pedidos\\RabbitLib\\RabbitLib.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Documents\\Projetos\\processamento-pedidos\\RabbitLib\\RabbitLib.csproj"
             }
           }
         }
